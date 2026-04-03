@@ -1,4 +1,4 @@
-# Proposal Writer Harness
+# Proposal Writer Jarbis
 
 제안서의 고객분석→솔루션설계→가격→차별화→디자인을 에이전트 팀이 협업하여 생성하는 하네스.
 

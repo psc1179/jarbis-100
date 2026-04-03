@@ -1,6 +1,6 @@
-# Newsletter Engine Harness
+# Newsletter Engine Jarbis
 
-A harness where an agent team collaborates to produce newsletter content through the pipeline of curation, writing, A/B testing, and send optimization.
+A jarbis where an agent team collaborates to produce newsletter content through the pipeline of curation, writing, A/B testing, and send optimization.
 
 ## Structure
 

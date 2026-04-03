@@ -1,4 +1,4 @@
-# Visual Storytelling Harness
+# Visual Storytelling Jarbis
 
 비주얼 스토리텔링의 스토리설계→텍스트집필→AI이미지생성→HTML레이아웃→통합편집을 에이전트 팀이 협업하여 제작하는 하네스.
 

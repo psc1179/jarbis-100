@@ -1,4 +1,4 @@
-# Changelog Generator Harness
+# Changelog Generator Jarbis
 
 릴리스 관리의 git이력분석→변경분류→릴리스노트생성→마이그레이션가이드→공지문작성을 에이전트 팀이 협업하여 수행하는 하네스.
 

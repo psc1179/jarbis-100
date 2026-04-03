@@ -1,6 +1,6 @@
-# Side Project Launcher Harness
+# Side Project Launcher Jarbis
 
-companyproject basis ideaverify→tech stack→MVP→developmentroadmap→launchchecklist A harness where an agent team collaborates to produce deliverables.
+companyproject basis ideaverify→tech stack→MVP→developmentroadmap→launchchecklist A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

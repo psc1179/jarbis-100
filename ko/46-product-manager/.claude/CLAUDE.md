@@ -1,4 +1,4 @@
-# Product Manager Harness
+# Product Manager Jarbis
 
 PM 업무의 로드맵→PRD→유저스토리→스프린트→회고를 에이전트 팀이 협업하여 생성하는 하네스.
 

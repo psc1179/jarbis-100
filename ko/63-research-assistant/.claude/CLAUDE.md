@@ -1,4 +1,4 @@
-# Research Assistant Harness
+# Research Assistant Jarbis
 
 학술 연구 보조 에이전트 팀 하네스.
 

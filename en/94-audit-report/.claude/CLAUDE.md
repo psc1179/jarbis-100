@@ -1,6 +1,6 @@
-# Audit Report Harness
+# Audit Report Jarbis
 
-An internal audit report generation harness. An agent team collaborates to handle everything from audit scope design through checklist creation, findings analysis, improvement recommendations, and tracking ledger management.
+An internal audit report generation jarbis. An agent team collaborates to handle everything from audit scope design through checklist creation, findings analysis, improvement recommendations, and tracking ledger management.
 
 ## Structure
 

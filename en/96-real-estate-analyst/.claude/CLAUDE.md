@@ -1,6 +1,6 @@
-# Real Estate Analyst Harness
+# Real Estate Analyst Jarbis
 
-A real estate analysis harness. An agent team collaborates to produce market research, location analysis, profitability analysis, risk assessment, and investment reports.
+A real estate analysis jarbis. An agent team collaborates to produce market research, location analysis, profitability analysis, risk assessment, and investment reports.
 
 ## Structure
 

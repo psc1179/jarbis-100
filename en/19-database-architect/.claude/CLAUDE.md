@@ -1,6 +1,6 @@
-# Database Architect Harness
+# Database Architect Jarbis
 
-A harness where an agent team collaborates to perform DB design from modeling through migration, indexing, and query optimization.
+A jarbis where an agent team collaborates to perform DB design from modeling through migration, indexing, and query optimization.
 
 ## Structure
 

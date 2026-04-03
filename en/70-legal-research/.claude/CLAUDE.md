@@ -1,6 +1,6 @@
-# Legal Research Harness
+# Legal Research Jarbis
 
-A legal research agent team harness.
+A legal research agent team jarbis.
 
 ## Structure
 

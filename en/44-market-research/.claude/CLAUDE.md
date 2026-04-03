@@ -1,6 +1,6 @@
-# Market Research Harness
+# Market Research Jarbis
 
-Market research: a harness where an agent team collaborates to perform industry analysis → competitor analysis → consumer analysis → trend analysis → research review.
+Market research: a jarbis where an agent team collaborates to perform industry analysis → competitor analysis → consumer analysis → trend analysis → research review.
 
 ## Structure
 

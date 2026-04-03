@@ -1,4 +1,4 @@
-# CLI Tool Builder Harness
+# CLI Tool Builder Jarbis
 
 CLI 도구 개발의 명령설계→파서→핸들러→테스트→문서→배포설정을 에이전트 팀이 협업하여 수행하는 하네스.
 

@@ -1,4 +1,4 @@
-# Brand Identity Harness
+# Brand Identity Jarbis
 
 브랜드 아이덴티티의 네이밍→슬로건→톤앤매너→가이드라인을 에이전트 팀이 협업하여 설계하는 하네스.
 

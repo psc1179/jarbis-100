@@ -1,6 +1,6 @@
-# LLM App Builder Harness
+# LLM App Builder Jarbis
 
-LLM application construction: a harness where an agent team collaborates to perform prompt engineering → RAG architecture → optimization → evaluation → deployment.
+LLM application construction: a jarbis where an agent team collaborates to perform prompt engineering → RAG architecture → optimization → evaluation → deployment.
 
 ## Structure
 

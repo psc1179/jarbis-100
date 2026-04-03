@@ -1,4 +1,4 @@
-# Space Concept Board Harness
+# Space Concept Board Jarbis
 
 공간 인테리어 컨셉보드의 스타일분석→무드보드→컬러팔레트→가구·소품리스트→예산표→쇼핑가이드를 에이전트 팀이 협업하여 생성하는 하네스.
 

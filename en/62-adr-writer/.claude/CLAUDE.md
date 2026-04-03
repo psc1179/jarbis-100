@@ -1,6 +1,6 @@
-# ADR Writer Harness
+# ADR Writer Jarbis
 
-An agent team harness for creating Architecture Decision Records (ADRs).
+An agent team jarbis for creating Architecture Decision Records (ADRs).
 
 ## Structure
 

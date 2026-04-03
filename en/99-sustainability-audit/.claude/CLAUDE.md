@@ -1,6 +1,6 @@
-# Sustainability Audit Harness
+# Sustainability Audit Jarbis
 
-A sustainability audit harness. An agent team collaborates to produce environmental analysis, social assessment, governance review, ESG reporting, and improvement planning.
+A sustainability audit jarbis. An agent team collaborates to produce environmental analysis, social assessment, governance review, ESG reporting, and improvement planning.
 
 ## Structure
 

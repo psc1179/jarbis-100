@@ -1,4 +1,4 @@
-# Coding Bootcamp Harness
+# Coding Bootcamp Jarbis
 
 코딩 교육의 커리큘럼설계→실습과제→코드리뷰→프로젝트→포트폴리오를 에이전트 팀이 협업하여 수행하는 하네스.
 

@@ -1,6 +1,6 @@
-# Travel Planner Harness
+# Travel Planner Jarbis
 
-A harness where an agent team collaborates to generate destination analysis, itinerary, accommodation, budget, and local information for travel planning.
+A jarbis where an agent team collaborates to generate destination analysis, itinerary, accommodation, budget, and local information for travel planning.
 
 ## Structure
 

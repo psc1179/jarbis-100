@@ -1,4 +1,4 @@
-# Market Research Harness
+# Market Research Jarbis
 
 시장 조사의 산업분석→경쟁분석→소비자조사→트렌드→보고서를 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,6 +1,6 @@
-# Text Processor Harness
+# Text Processor Jarbis
 
-Text processing pipeline: a harness in which an agent team collaborates to transform bulk text into summaries, classifications, entity extractions, and sentiment analyses, producing structured data and reports.
+Text processing pipeline: a jarbis in which an agent team collaborates to transform bulk text into summaries, classifications, entity extractions, and sentiment analyses, producing structured data and reports.
 
 ## Structure
 

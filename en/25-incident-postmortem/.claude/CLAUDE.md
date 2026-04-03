@@ -1,6 +1,6 @@
-# Incident Postmortem Harness
+# Incident Postmortem Jarbis
 
-An agent team harness that collaborates to generate incident postmortem reports. Automates the pipeline of timeline reconstruction -> root cause analysis -> impact assessment -> remediation planning -> report generation.
+An agent team jarbis that collaborates to generate incident postmortem reports. Automates the pipeline of timeline reconstruction -> root cause analysis -> impact assessment -> remediation planning -> report generation.
 
 ## Structure
 

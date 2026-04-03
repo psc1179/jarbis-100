@@ -1,6 +1,6 @@
-# Report Generator Harness
+# Report Generator Jarbis
 
-work report datacollection→analysis→visualization→→summary A harness where an agent team collaborates to produce deliverables.
+work report datacollection→analysis→visualization→→summary A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

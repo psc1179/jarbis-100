@@ -1,6 +1,6 @@
-# Onboarding System Harness
+# Onboarding System Jarbis
 
-New hire onboarding: A harness where an agent team collaborates to generate everything from checklists to training, mentor assignments, and 30-60-90 day plans.
+New hire onboarding: A jarbis where an agent team collaborates to generate everything from checklists to training, mentor assignments, and 30-60-90 day plans.
 
 ## Structure
 

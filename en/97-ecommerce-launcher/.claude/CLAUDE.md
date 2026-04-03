@@ -1,6 +1,6 @@
-# E-commerce Launcher Harness
+# E-commerce Launcher Jarbis
 
-An e-commerce launch harness. An agent team collaborates to produce product planning, product detail pages, pricing strategy, marketing plans, and customer service architecture for online store launches.
+An e-commerce launch jarbis. An agent team collaborates to produce product planning, product detail pages, pricing strategy, marketing plans, and customer service architecture for online store launches.
 
 ## Structure
 

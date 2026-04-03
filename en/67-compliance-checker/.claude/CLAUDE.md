@@ -1,4 +1,4 @@
-# Compliance Checker Harness
+# Compliance Checker Jarbis
 
 Regulatory compliance verification — an agent team collaborates to perform law mapping, status audit, gap analysis, and remediation planning.
 

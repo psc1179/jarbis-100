@@ -1,6 +1,6 @@
-# Service Legal Docs Harness
+# Service Legal Docs Jarbis
 
-A service terms and legal document drafting agent team harness.
+A service terms and legal document drafting agent team jarbis.
 
 ## Structure
 

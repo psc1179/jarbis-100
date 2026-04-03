@@ -1,6 +1,6 @@
-# RFP Responder Harness
+# RFP Responder Jarbis
 
-A harness where an agent team collaborates to create RFI/RFP responses: requirements analysis, capability matching, technical proposal, pricing proposal, and differentiation strategy.
+A jarbis where an agent team collaborates to create RFI/RFP responses: requirements analysis, capability matching, technical proposal, pricing proposal, and differentiation strategy.
 
 ## Structure
 

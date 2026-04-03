@@ -1,4 +1,4 @@
-# Code Reviewer Harness
+# Code Reviewer Jarbis
 
 코드 리뷰 자동화의 스타일→보안→성능→아키텍처 리뷰를 에이전트 팀이 협업하여 수행하는 하네스.
 

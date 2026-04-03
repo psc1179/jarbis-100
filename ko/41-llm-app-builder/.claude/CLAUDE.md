@@ -1,4 +1,4 @@
-# LLM App Builder Harness
+# LLM App Builder Jarbis
 
 LLM 앱 개발의 프롬프트엔지니어링→RAG파이프라인설계→평가프레임워크→최적화→배포설정을 에이전트 팀이 협업하여 수행하는 하네스.
 

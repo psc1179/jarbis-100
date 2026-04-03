@@ -1,4 +1,4 @@
-# Technical Writer Harness
+# Technical Writer Jarbis
 
 기술 문서 작성의 구조설계→집필→다이어그램→리뷰→버전관리를 에이전트 팀이 협업하여 생성하는 하네스.
 

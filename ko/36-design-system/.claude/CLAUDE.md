@@ -1,4 +1,4 @@
-# Design System Harness
+# Design System Jarbis
 
 UI 디자인 시스템 구축: 디자인토큰→컴포넌트라이브러리→스토리북→접근성검증→문서를 에이전트 팀이 협업하여 수행하는 하네스.
 

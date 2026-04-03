@@ -1,4 +1,4 @@
-# Fitness Program Harness
+# Fitness Program Jarbis
 
 운동 프로그램의 목표별설계→주간스케줄→운동가이드→식단연계→진행기록을 에이전트 팀이 협업하여 생성하는 하네스.
 

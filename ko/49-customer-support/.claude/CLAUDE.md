@@ -1,4 +1,4 @@
-# Customer Support Harness
+# Customer Support Jarbis
 
 고객지원 시스템 구축: FAQ→응대매뉴얼→에스컬레이션→분석을 에이전트 팀이 협업하여 생성하는 하네스.
 

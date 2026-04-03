@@ -1,6 +1,6 @@
-# Risk Register Harness
+# Risk Register Jarbis
 
-project risk managementversus: riskidentification→probability·impactassessment→responsestrategyestablish→monitoringplan→statusreportto A harness where an agent team collaborates to produce deliverables.
+project risk managementversus: riskidentification→probability·impactassessment→responsestrategyestablish→monitoringplan→statusreportto A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

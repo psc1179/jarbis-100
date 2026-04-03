@@ -1,4 +1,4 @@
-# RFP Responder Harness
+# RFP Responder Jarbis
 
 RFI/RFP 응답서 작성을 위한 요구사항 분석, 역량 매칭, 기술 제안, 가격 제안, 차별화 전략까지 에이전트 팀이 협업하는 하네스.
 

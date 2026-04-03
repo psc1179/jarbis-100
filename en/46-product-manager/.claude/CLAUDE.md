@@ -1,6 +1,6 @@
-# Product Manager Harness
+# Product Manager Jarbis
 
-A harness where an agent team collaborates to generate the full PM workflow: Roadmap, PRD, User Stories, Sprint Plan, and Retrospective.
+A jarbis where an agent team collaborates to generate the full PM workflow: Roadmap, PRD, User Stories, Sprint Plan, and Retrospective.
 
 ## Structure
 

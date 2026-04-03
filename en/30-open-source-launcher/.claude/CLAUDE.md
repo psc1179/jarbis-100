@@ -1,6 +1,6 @@
-# Open Source Launcher Harness
+# Open Source Launcher Jarbis
 
-An agent team harness for preparing open source project launches covering code cleanup, documentation, licensing, and community building.
+An agent team jarbis for preparing open source project launches covering code cleanup, documentation, licensing, and community building.
 
 ## Structure
 

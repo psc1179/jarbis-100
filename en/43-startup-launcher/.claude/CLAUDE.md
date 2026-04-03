@@ -1,6 +1,6 @@
-# Startup Launcher Harness
+# Startup Launcher Jarbis
 
-Startup launch planning: a harness where an agent team collaborates to perform market analysis → business modeling → MVP architecture → pitch deck creation → launch review.
+Startup launch planning: a jarbis where an agent team collaborates to perform market analysis → business modeling → MVP architecture → pitch deck creation → launch review.
 
 ## Structure
 

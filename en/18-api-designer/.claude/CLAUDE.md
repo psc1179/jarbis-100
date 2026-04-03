@@ -1,6 +1,6 @@
-# API Designer Harness
+# API Designer Jarbis
 
-A harness where an agent team collaborates to design, document, mock, and test REST/GraphQL APIs.
+A jarbis where an agent team collaborates to design, document, mock, and test REST/GraphQL APIs.
 
 ## Structure
 

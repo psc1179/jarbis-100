@@ -1,6 +1,6 @@
-# Procurement Docs Harness
+# Procurement Docs Jarbis
 
-A procurement document set generation harness. An agent team collaborates to produce everything from requirements definition through vendor comparison, evaluation criteria, contract review, and acceptance criteria.
+A procurement document set generation jarbis. An agent team collaborates to produce everything from requirements definition through vendor comparison, evaluation criteria, contract review, and acceptance criteria.
 
 ## Structure
 

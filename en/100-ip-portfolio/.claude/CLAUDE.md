@@ -1,6 +1,6 @@
-# IP Portfolio Harness
+# IP Portfolio Jarbis
 
-An intellectual property portfolio management harness. An agent team collaborates to produce IP analysis, patent mapping, protection strategy, licensing strategy, and renewal scheduling.
+An intellectual property portfolio management jarbis. An agent team collaborates to produce IP analysis, patent mapping, protection strategy, licensing strategy, and renewal scheduling.
 
 ## Structure
 

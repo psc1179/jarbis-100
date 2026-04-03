@@ -1,4 +1,4 @@
-# Crisis Communication Harness
+# Crisis Communication Jarbis
 
 crisis situation occurrence when situationidentify→messagestrategy→press release→Q&A→monitoringto agent team to integration crisis package creation .
 

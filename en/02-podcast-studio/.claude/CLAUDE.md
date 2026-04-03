@@ -1,6 +1,6 @@
-# Podcast Studio Harness
+# Podcast Studio Jarbis
 
-A harness where an agent team collaborates to produce podcast content through the pipeline of planning, research, scripting, show notes, and distribution strategy.
+A jarbis where an agent team collaborates to produce podcast content through the pipeline of planning, research, scripting, show notes, and distribution strategy.
 
 ## Structure
 

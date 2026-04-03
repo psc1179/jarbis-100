@@ -1,6 +1,6 @@
-# Privacy Engineer Harness
+# Privacy Engineer Jarbis
 
-A privacy engineering agent team harness.
+A privacy engineering agent team jarbis.
 
 ## Structure
 

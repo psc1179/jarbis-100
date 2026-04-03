@@ -1,6 +1,6 @@
-# Research Assistant Harness
+# Research Assistant Jarbis
 
-An agent team harness for academic research assistance.
+An agent team jarbis for academic research assistance.
 
 ## Structure
 

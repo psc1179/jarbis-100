@@ -1,6 +1,6 @@
-# Strategy Framework Harness
+# Strategy Framework Jarbis
 
-A harness where an agent team collaborates to generate an organizational strategy framework in sequence: OKR Design, BSC Mapping, SWOT Analysis, Vision & Mission Statement, and Strategy Execution Roadmap.
+A jarbis where an agent team collaborates to generate an organizational strategy framework in sequence: OKR Design, BSC Mapping, SWOT Analysis, Vision & Mission Statement, and Strategy Execution Roadmap.
 
 ## Structure
 

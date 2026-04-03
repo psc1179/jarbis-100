@@ -1,4 +1,4 @@
-# E-commerce Launcher Harness
+# E-commerce Launcher Jarbis
 
 이커머스 상품 런칭의 기획→상세페이지→가격전략→마케팅→CS 셋업을 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,6 +1,6 @@
-# Personal Branding Harness
+# Personal Branding Jarbis
 
-A personal branding agent team harness.
+A personal branding agent team jarbis.
 
 ## Structure
 

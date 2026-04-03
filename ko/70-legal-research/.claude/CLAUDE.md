@@ -1,4 +1,4 @@
-# Legal Research Harness
+# Legal Research Jarbis
 
 법률 리서치 — 판례검색→법리분석→의견서→전략수립을 에이전트 팀이 협업하여 수행하는 하네스.
 

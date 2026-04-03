@@ -1,6 +1,6 @@
-# Event Organizer Harness
+# Event Organizer Jarbis
 
-event basis·operations: concept→venue→program→promotion→execution→companyafterassessmentto A harness where an agent team collaborates to produce deliverables.
+event basis·operations: concept→venue→program→promotion→execution→companyafterassessmentto A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

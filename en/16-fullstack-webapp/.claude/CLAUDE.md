@@ -1,6 +1,6 @@
-# Fullstack Web App Harness
+# Fullstack Web App Jarbis
 
-A harness where an agent team collaborates to develop fullstack web apps through the pipeline of requirements, design, frontend, backend, testing, and deployment.
+A jarbis where an agent team collaborates to develop fullstack web apps through the pipeline of requirements, design, frontend, backend, testing, and deployment.
 
 ## Structure
 

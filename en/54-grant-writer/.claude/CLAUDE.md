@@ -1,6 +1,6 @@
-# Grant Writer Harness
+# Grant Writer Jarbis
 
-A harness where an agent team collaborates on grant and funding applications: announcement analysis, business plan writing, budget design, and submission verification.
+A jarbis where an agent team collaborates on grant and funding applications: announcement analysis, business plan writing, budget design, and submission verification.
 
 ## Structure
 

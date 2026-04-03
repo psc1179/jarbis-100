@@ -1,6 +1,6 @@
-# Operations Manual Harness
+# Operations Manual Jarbis
 
-An automated operations manual generation harness. An agent team collaborates to analyze existing documents/code and generate process flowcharts, step-by-step manuals, FAQs, and training materials.
+An automated operations manual generation jarbis. An agent team collaborates to analyze existing documents/code and generate process flowcharts, step-by-step manuals, FAQs, and training materials.
 
 ## Structure
 

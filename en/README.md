@@ -1,35 +1,35 @@
-# Harness 100 — Production-Grade Agent Team Harness Collection
+# Jarbis 100 — Production-Grade Agent Team Jarbis Collection
 
-**100 ready-to-use agent team harnesses** for everyday life and work, built for Claude Code.
+**100 ready-to-use agent team jarbises** for everyday life and work, built for Claude Code.
 
-Each harness orchestrates 4-5 domain-expert agents collaborating via SendMessage in production-grade workflows.
+Each jarbis orchestrates 4-5 domain-expert agents collaborating via SendMessage in production-grade workflows.
 
 ## Project Scale
 
 | Item | Count |
 |------|-------|
-| Harnesses | 100 |
+| Jarbises | 100 |
 | Agent definitions | 489 |
 | Skills (orchestrator + agent-extending) | 315 |
 | Total files | 904 |
 
 ## Quick Start
 
-Copy any harness folder's `.claude/` directory into your project:
+Copy any jarbis folder's `.claude/` directory into your project:
 
 ```bash
-# Example: apply the youtube-production harness to your project
+# Example: apply the youtube-production jarbis to your project
 cp -r 01-youtube-production/.claude/ /path/to/my-project/.claude/
 ```
 
-Each harness folder contains a `CLAUDE.md` with structure and usage details.
+Each jarbis folder contains a `CLAUDE.md` with structure and usage details.
 
-## Harness Structure
+## Jarbis Structure
 
-Every harness follows a consistent structure:
+Every jarbis follows a consistent structure:
 
 ```
-{NN}-{harness-name}/
+{NN}-{jarbis-name}/
 └── .claude/
     ├── CLAUDE.md                          # Project overview
     ├── agents/
@@ -49,7 +49,7 @@ Every harness follows a consistent structure:
 
 ## Quality Standards
 
-Every harness meets these criteria:
+Every jarbis meets these criteria:
 
 - **Agent Team Mode** — Direct communication via SendMessage, cross-validation
 - **Domain Expertise** — Real-world frameworks and methodologies embedded
@@ -65,7 +65,7 @@ Every harness meets these criteria:
 
 ## Category 1: Content Creation & Creative (01-15)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 01 | [youtube-production](01-youtube-production/) | YouTube video: planning, script, thumbnail, SEO | 5 |
 | 02 | [podcast-studio](02-podcast-studio/) | Podcast: research, script, show notes | 5 |
@@ -85,7 +85,7 @@ Every harness meets these criteria:
 
 ## Category 2: Software Development & DevOps (16-30)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 16 | [fullstack-webapp](16-fullstack-webapp/) | Full-stack web app: design, frontend, backend, test, deploy | 5 |
 | 17 | [mobile-app-builder](17-mobile-app-builder/) | Mobile app: UI/UX, code, API, store deployment | 5 |
@@ -105,7 +105,7 @@ Every harness meets these criteria:
 
 ## Category 3: Data & AI/ML (31-42)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 31 | [ml-experiment](31-ml-experiment/) | ML experiment: data, model, training, evaluation, deploy | 5 |
 | 32 | [data-analysis](32-data-analysis/) | Data analysis: explore, clean, analyze, visualize, report | 5 |
@@ -122,7 +122,7 @@ Every harness meets these criteria:
 
 ## Category 4: Business & Strategy (43-55)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 43 | [startup-launcher](43-startup-launcher/) | Startup: idea validation, BM, MVP, pitch | 5 |
 | 44 | [market-research](44-market-research/) | Market research: industry, competitor, consumer, trends | 5 |
@@ -140,7 +140,7 @@ Every harness meets these criteria:
 
 ## Category 5: Education & Learning (56-65)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 56 | [language-tutor](56-language-tutor/) | Language learning: level test, curriculum, lessons, quizzes | 5 |
 | 57 | [exam-prep](57-exam-prep/) | Exam prep: trends, diagnosis, mock exams, error analysis | 5 |
@@ -155,7 +155,7 @@ Every harness meets these criteria:
 
 ## Category 6: Legal & Compliance (66-72)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 66 | [contract-analyzer](66-contract-analyzer/) | Contract analysis, drafting, review, risk assessment | 5 |
 | 67 | [compliance-checker](67-compliance-checker/) | Compliance: law mapping, gap analysis, remediation | 4 |
@@ -167,7 +167,7 @@ Every harness meets these criteria:
 
 ## Category 7: Health & Lifestyle (73-80)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 73 | [meal-planner](73-meal-planner/) | Meal planning: nutrition, menu, recipes, grocery list | 4 |
 | 74 | [fitness-program](74-fitness-program/) | Fitness: program design, guides, nutrition, tracking | 4 |
@@ -180,7 +180,7 @@ Every harness meets these criteria:
 
 ## Category 8: Communication & Documents (81-88)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 81 | [technical-writer](81-technical-writer/) | Technical docs: structure, writing, diagrams, review | 5 |
 | 82 | [report-generator](82-report-generator/) | Business reports: data, analysis, visualization, writing | 5 |
@@ -193,7 +193,7 @@ Every harness meets these criteria:
 
 ## Category 9: Operations & Process (89-95)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 89 | [event-organizer](89-event-organizer/) | Event: concept, program, promotion, execution, evaluation | 5 |
 | 90 | [hiring-pipeline](90-hiring-pipeline/) | Hiring: JD, sourcing, screening, interview, offer | 5 |
@@ -205,7 +205,7 @@ Every harness meets these criteria:
 
 ## Category 10: Specialized Domains (96-100)
 
-| # | Harness | Description | Agents |
+| # | Jarbis | Description | Agents |
 |---|---------|-------------|--------|
 | 96 | [real-estate-analyst](96-real-estate-analyst/) | Real estate: market, location, profitability, risk, report | 5 |
 | 97 | [ecommerce-launcher](97-ecommerce-launcher/) | E-commerce: product planning, detail pages, pricing, marketing | 5 |
@@ -217,7 +217,7 @@ Every harness meets these criteria:
 
 ## Domain Expertise Highlights
 
-Each harness embeds real-world frameworks and methodologies:
+Each jarbis embeds real-world frameworks and methodologies:
 
 | Domain | Frameworks / Methodologies |
 |--------|--------------------------|

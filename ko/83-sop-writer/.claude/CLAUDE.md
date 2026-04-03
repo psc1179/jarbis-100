@@ -1,4 +1,4 @@
-# SOP Writer Harness
+# SOP Writer Jarbis
 
 표준운영절차(SOP)의 프로세스분석→절차서→체크리스트→교육자료→버전관리를 에이전트 팀이 협업하여 생성하는 하네스.
 

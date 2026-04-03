@@ -1,6 +1,6 @@
-# Data Analysis Harness
+# Data Analysis Jarbis
 
-A harness where an agent team collaborates to perform the full data analysis lifecycle: exploration → cleaning → analysis → visualization → reporting.
+A jarbis where an agent team collaborates to perform the full data analysis lifecycle: exploration → cleaning → analysis → visualization → reporting.
 
 ## Structure
 

@@ -1,6 +1,6 @@
-# Design System Harness
+# Design System Jarbis
 
-UI design system construction: a harness in which an agent team collaborates to create design tokens, a component library, Storybook, accessibility verification, and documentation.
+UI design system construction: a jarbis in which an agent team collaborates to create design tokens, a component library, Storybook, accessibility verification, and documentation.
 
 ## Structure
 

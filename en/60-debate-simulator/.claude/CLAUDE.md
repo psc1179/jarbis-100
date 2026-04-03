@@ -1,6 +1,6 @@
-# Debate Simulator Harness
+# Debate Simulator Jarbis
 
-An agent team harness for debate simulation.
+An agent team jarbis for debate simulation.
 
 ## Structure
 

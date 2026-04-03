@@ -1,6 +1,6 @@
-# Financial Modeler Harness
+# Financial Modeler Jarbis
 
-A harness where an agent team collaborates to produce the full financial modeling lifecycle: revenue model, cost structure, scenario analysis, and valuation.
+A jarbis where an agent team collaborates to produce the full financial modeling lifecycle: revenue model, cost structure, scenario analysis, and valuation.
 
 ## Structure
 

@@ -1,6 +1,6 @@
-# Security Audit Harness
+# Security Audit Jarbis
 
-An agent team harness for performing security audits covering vulnerability scanning, code analysis, penetration test reporting, and remediation recommendations.
+An agent team jarbis for performing security audits covering vulnerability scanning, code analysis, penetration test reporting, and remediation recommendations.
 
 ## Structure
 

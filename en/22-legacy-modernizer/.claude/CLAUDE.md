@@ -1,6 +1,6 @@
-# Legacy Modernizer Harness
+# Legacy Modernizer Jarbis
 
-An agent team harness for transforming legacy codebases into modern architectures. Automates the analysis -> refactoring strategy -> migration -> verification pipeline.
+An agent team jarbis for transforming legacy codebases into modern architectures. Automates the analysis -> refactoring strategy -> migration -> verification pipeline.
 
 ## Structure
 

@@ -1,6 +1,6 @@
-# Language Tutor Harness
+# Language Tutor Jarbis
 
-An agent team harness for foreign language learning: level testing, curriculum design, lessons, quizzes, and review management.
+An agent team jarbis for foreign language learning: level testing, curriculum design, lessons, quizzes, and review management.
 
 ## Structure
 

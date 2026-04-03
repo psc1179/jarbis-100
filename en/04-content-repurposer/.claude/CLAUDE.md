@@ -1,6 +1,6 @@
-# Content Repurposer Harness
+# Content Repurposer Jarbis
 
-A harness where an agent team transforms a single source piece of content into multiple formats: blog posts, social media, newsletters, presentations, and scripts.
+A jarbis where an agent team transforms a single source piece of content into multiple formats: blog posts, social media, newsletters, presentations, and scripts.
 
 ## Structure
 

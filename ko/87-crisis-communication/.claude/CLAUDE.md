@@ -1,4 +1,4 @@
-# Crisis Communication Harness
+# Crisis Communication Jarbis
 
 위기 상황 발생 시 상황파악→메시지전략→보도자료→Q&A→모니터링까지 에이전트 팀이 협업하여 통합 위기소통 패키지를 생성하는 하네스.
 

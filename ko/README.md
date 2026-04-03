@@ -1,4 +1,4 @@
-# Harness 100 — 실전 에이전트 팀 하네스 컬렉션
+# Jarbis 100 — 실전 에이전트 팀 하네스 컬렉션
 
 일상생활과 업무에 바로 적용할 수 있는 **100가지 에이전트 팀 하네스**를 구축한 프로젝트입니다.
 
@@ -29,7 +29,7 @@ cp -r 01-youtube-production/.claude/ /path/to/my-project/.claude/
 모든 하네스는 동일한 구조를 따릅니다:
 
 ```
-{NN}-{harness-name}/
+{NN}-{jarbis-name}/
 └── .claude/
     ├── CLAUDE.md                          # 프로젝트 개요
     ├── agents/

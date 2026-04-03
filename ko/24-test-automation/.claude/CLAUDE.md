@@ -1,4 +1,4 @@
-# Test Automation Harness
+# Test Automation Jarbis
 
 테스트 자동화 전략 수립부터 테스트 작성, CI 통합, 커버리지 분석까지 에이전트 팀이 협업하는 하네스.
 

@@ -1,4 +1,4 @@
-# Grant Writer Harness
+# Grant Writer Jarbis
 
 보조금 및 지원사업 신청을 위한 공고 분석, 사업계획 작성, 예산 편성, 제출 검증까지 에이전트 팀이 협업하는 하네스.
 

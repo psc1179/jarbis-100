@@ -1,4 +1,4 @@
-# Web Scraper Harness
+# Web Scraper Jarbis
 
 웹 스크래핑 시스템의 대상분석→크롤러설계→파싱→저장→모니터링을 에이전트 팀이 협업하여 구축하는 하네스.
 

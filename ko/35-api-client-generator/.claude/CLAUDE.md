@@ -1,4 +1,4 @@
-# API Client Generator Harness
+# API Client Generator Jarbis
 
 API 클라이언트 SDK 생성: 스펙파싱→타입생성→클라이언트코드→테스트→사용문서를 에이전트 팀이 협업하여 수행하는 하네스.
 

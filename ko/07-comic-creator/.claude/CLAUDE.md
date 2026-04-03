@@ -1,4 +1,4 @@
-# Comic Creator Harness
+# Comic Creator Jarbis
 
 4컷/장편 만화 제작의 콘티→대사→이미지생성→편집을 에이전트 팀이 협업하여 생성하는 하네스.
 

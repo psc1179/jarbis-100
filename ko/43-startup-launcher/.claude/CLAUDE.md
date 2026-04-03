@@ -1,4 +1,4 @@
-# Startup Launcher Harness
+# Startup Launcher Jarbis
 
 스타트업 런칭의 아이디어 검증→비즈니스 모델→MVP→피칭→투자 유치를 에이전트 팀이 협업하여 생성하는 하네스.
 

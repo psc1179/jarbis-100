@@ -1,4 +1,4 @@
-# Personal Finance Harness
+# Personal Finance Jarbis
 
 개인 재무관리의 수입지출분석→예산설계→투자전략→절세방안→은퇴설계를 에이전트 팀이 협업하여 생성하는 하네스.
 

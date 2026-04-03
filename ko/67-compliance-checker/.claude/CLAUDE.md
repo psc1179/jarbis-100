@@ -1,4 +1,4 @@
-# Compliance Checker Harness
+# Compliance Checker Jarbis
 
 규정 준수 검증 — 법률매핑→현황진단→갭분석→개선계획을 에이전트 팀이 협업하여 수행하는 하네스.
 

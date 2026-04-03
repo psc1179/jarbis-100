@@ -1,4 +1,4 @@
-# Customer Support Harness
+# Customer Support Jarbis
 
 Build a customer support system: an agent team collaborates to produce FAQ, response manuals, escalation policies, and analytics.
 

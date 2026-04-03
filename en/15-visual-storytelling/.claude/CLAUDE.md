@@ -1,6 +1,6 @@
-# Visual Storytelling Harness
+# Visual Storytelling Jarbis
 
-A harness where an agent team collaborates to produce visual storytelling: story design, text writing, AI image generation, HTML layout, and integrated editing.
+A jarbis where an agent team collaborates to produce visual storytelling: story design, text writing, AI image generation, HTML layout, and integrated editing.
 
 ## Structure
 

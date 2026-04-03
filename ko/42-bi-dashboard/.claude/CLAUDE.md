@@ -1,4 +1,4 @@
-# BI Dashboard Harness
+# BI Dashboard Jarbis
 
 BI 대시보드 구축의 데이터웨어하우스 설계→KPI 정의→시각화→자동 보고를 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,4 +1,4 @@
-# Debate Simulator Harness
+# Debate Simulator Jarbis
 
 토론 시뮬레이션 에이전트 팀 하네스.
 

@@ -1,4 +1,4 @@
-# ML Experiment Harness
+# ML Experiment Jarbis
 
 ML 실험 관리의 데이터준비→모델설계→학습→평가→배포를 에이전트 팀이 협업하여 수행하는 하네스.
 

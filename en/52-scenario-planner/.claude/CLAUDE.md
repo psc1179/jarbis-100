@@ -1,6 +1,6 @@
-# Scenario Planner Harness
+# Scenario Planner Jarbis
 
-An agent team harness that defines key variables in uncertain environments, constructs a scenario matrix, and develops impact analysis and response strategies.
+An agent team jarbis that defines key variables in uncertain environments, constructs a scenario matrix, and develops impact analysis and response strategies.
 
 ## Structure
 

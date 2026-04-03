@@ -1,4 +1,4 @@
-# Risk Register Harness
+# Risk Register Jarbis
 
 프로젝트 리스크 관리대장: 리스크식별→확률·영향평가→대응전략수립→모니터링계획→상태보고서까지 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,4 +1,4 @@
-# Language Tutor Harness
+# Language Tutor Jarbis
 
 외국어 학습을 위한 레벨 테스트, 커리큘럼, 레슨, 퀴즈, 복습 관리 에이전트 팀 하네스.
 

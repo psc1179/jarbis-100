@@ -1,6 +1,6 @@
-# Data Migration Harness
+# Data Migration Jarbis
 
-Data migration: a harness in which an agent team collaborates to perform source analysis, schema mapping, transformation script generation, validation queries, and rollback planning.
+Data migration: a jarbis in which an agent team collaborates to perform source analysis, schema mapping, transformation script generation, validation queries, and rollback planning.
 
 ## Structure
 

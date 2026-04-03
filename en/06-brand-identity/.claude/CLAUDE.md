@@ -1,6 +1,6 @@
-# Brand Identity Harness
+# Brand Identity Jarbis
 
-A harness where an agent team collaborates to design brand identity from naming through slogans, tone and manner, and visual guidelines.
+A jarbis where an agent team collaborates to design brand identity from naming through slogans, tone and manner, and visual guidelines.
 
 ## Structure
 

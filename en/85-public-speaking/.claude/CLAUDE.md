@@ -1,6 +1,6 @@
-# Public Speaking Harness
+# Public Speaking Jarbis
 
- comprehensive speechdocument→presentationversus→debatepreparationfrom→Q&Aexpectedanswer→rehearsalguide A harness where an agent team collaborates to produce deliverables.
+ comprehensive speechdocument→presentationversus→debatepreparationfrom→Q&Aexpectedanswer→rehearsalguide A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

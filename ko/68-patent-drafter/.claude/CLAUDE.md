@@ -1,4 +1,4 @@
-# Patent Drafter Harness
+# Patent Drafter Jarbis
 
 특허 명세서 작성 — 선행기술조사→청구항→명세서→도면설명을 에이전트 팀이 협업하여 수행하는 하네스.
 

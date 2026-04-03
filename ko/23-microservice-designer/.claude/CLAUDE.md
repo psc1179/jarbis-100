@@ -1,4 +1,4 @@
-# Microservice Designer Harness
+# Microservice Designer Jarbis
 
 마이크로서비스 아키텍처를 설계·분해·통신·모니터링하는 에이전트 팀 하네스. 도메인 분석부터 관측성 설계까지 풀 파이프라인을 자동화한다.
 

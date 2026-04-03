@@ -1,4 +1,4 @@
-# Meeting Strategist Harness
+# Meeting Strategist Jarbis
 
 회의 전략 문서의 안건구조설계→배경자료조사→의사결정프레임워크→회의록템플릿→팔로업플랜을 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,4 +1,4 @@
-# API Designer Harness
+# API Designer Jarbis
 
 REST/GraphQL API의 설계·문서화·목업·테스트를 에이전트 팀이 협업하여 수행하는 하네스.
 

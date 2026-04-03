@@ -1,4 +1,4 @@
-# Advertising Campaign Harness
+# Advertising Campaign Jarbis
 
 광고 캠페인의 타깃분석→카피→크리에이티브→미디어플랜을 에이전트 팀이 협업하여 설계하는 하네스.
 

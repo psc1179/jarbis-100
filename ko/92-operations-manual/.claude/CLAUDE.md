@@ -1,4 +1,4 @@
-# Operations Manual Harness
+# Operations Manual Jarbis
 
 업무 매뉴얼 자동 생성 하네스. 기존 문서/코드를 분석하여 프로세스 플로차트, 단계별 매뉴얼, FAQ, 교육자료를 에이전트 팀이 협업하여 생성한다.
 

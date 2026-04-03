@@ -1,4 +1,4 @@
-# Meal Planner Harness
+# Meal Planner Jarbis
 
 식단 관리의 영양분석→식단설계→레시피→장보기목록→조리가이드를 에이전트 팀이 협업하여 생성하는 하네스.
 

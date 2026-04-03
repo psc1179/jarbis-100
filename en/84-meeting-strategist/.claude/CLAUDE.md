@@ -1,6 +1,6 @@
-# Meeting Strategist Harness
+# Meeting Strategist Jarbis
 
-meeting strategy document agenda itemstructuredesign→backgroundmaterialresearch→decision-makingframework→meetingrecordtemplate→ A harness where an agent team collaborates to produce deliverables.
+meeting strategy document agenda itemstructuredesign→backgroundmaterialresearch→decision-makingframework→meetingrecordtemplate→ A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

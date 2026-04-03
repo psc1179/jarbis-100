@@ -1,4 +1,4 @@
-# Service Legal Docs Harness
+# Service Legal Docs Jarbis
 
 서비스 법무문서 세트 — 이용약관→개인정보처리방침→쿠키정책→환불정책→저작권고지 일체를 에이전트 팀이 협업하여 생성하는 하네스.
 

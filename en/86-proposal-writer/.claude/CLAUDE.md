@@ -1,6 +1,6 @@
-# Proposal Writer Harness
+# Proposal Writer Jarbis
 
-proposal clientanalysis→solutiondesign→price→differentiation→specialistperson A harness where an agent team collaborates to produce deliverables.
+proposal clientanalysis→solutiondesign→price→differentiation→specialistperson A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

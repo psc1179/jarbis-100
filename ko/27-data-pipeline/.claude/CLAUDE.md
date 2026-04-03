@@ -1,4 +1,4 @@
-# Data Pipeline Harness
+# Data Pipeline Jarbis
 
 데이터 파이프라인의 수집→변환→적재→품질검증→모니터링을 에이전트 팀이 협업하여 설계·구현하는 하네스.
 

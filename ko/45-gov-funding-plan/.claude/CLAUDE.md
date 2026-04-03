@@ -1,4 +1,4 @@
-# Gov Funding Plan Harness
+# Gov Funding Plan Jarbis
 
 정부지원사업 사업계획서의 공고요건분석→기술성·사업성작성→예산편성→증빙준비→제출검증을 에이전트 팀이 협업하여 생성하는 하네스.
 

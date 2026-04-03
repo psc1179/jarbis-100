@@ -1,6 +1,6 @@
-# Competency Modeler Harness
+# Competency Modeler Jarbis
 
-A harness where an agent team collaborates to perform the full competency modeling pipeline: job analysis → competency dictionary → assessment rubric design → development plan → competency matrix.
+A jarbis where an agent team collaborates to perform the full competency modeling pipeline: job analysis → competency dictionary → assessment rubric design → development plan → competency matrix.
 
 ## Structure
 

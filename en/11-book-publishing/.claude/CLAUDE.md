@@ -1,6 +1,6 @@
-# Book Publishing Harness
+# Book Publishing Jarbis
 
-A harness where an agent team collaborates to produce e-book publishing deliverables: manuscript editing, cover design, table of contents, metadata, and distribution setup.
+A jarbis where an agent team collaborates to produce e-book publishing deliverables: manuscript editing, cover design, table of contents, metadata, and distribution setup.
 
 ## Structure
 

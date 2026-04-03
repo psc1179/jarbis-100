@@ -1,6 +1,6 @@
-# Feedback Analyzer Harness
+# Feedback Analyzer Jarbis
 
-A customer/employee feedback analysis harness. An agent team collaborates to handle everything from data collection through sentiment analysis, topic classification, trend detection, and insight reporting.
+A customer/employee feedback analysis jarbis. An agent team collaborates to handle everything from data collection through sentiment analysis, topic classification, trend detection, and insight reporting.
 
 ## Structure
 

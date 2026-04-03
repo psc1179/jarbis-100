@@ -1,6 +1,6 @@
-# Performance Optimizer Harness
+# Performance Optimizer Jarbis
 
-An agent team harness for performance optimization covering profiling, bottleneck analysis, optimization, and benchmarking.
+An agent team jarbis for performance optimization covering profiling, bottleneck analysis, optimization, and benchmarking.
 
 ## Structure
 

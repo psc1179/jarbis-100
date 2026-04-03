@@ -1,4 +1,4 @@
-# Translation & Localization Harness
+# Translation & Localization Jarbis
 
 다국어 번역·현지화·문화적응·용어관리를 에이전트 팀이 협업하여 수행하는 하네스.
 

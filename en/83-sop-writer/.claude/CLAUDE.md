@@ -1,6 +1,6 @@
-# SOP Writer Harness
+# SOP Writer Jarbis
 
-standard operating procedure(SOP) processanalysis→procedure document→checklist→training materials→versionmanagement A harness where an agent team collaborates to produce deliverables.
+standard operating procedure(SOP) processanalysis→procedure document→checklist→training materials→versionmanagement A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

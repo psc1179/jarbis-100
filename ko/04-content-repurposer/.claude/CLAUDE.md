@@ -1,4 +1,4 @@
-# Content Repurposer Harness
+# Content Repurposer Jarbis
 
 1개 원본 콘텐츠를 블로그·SNS·뉴스레터·프레젠테이션·스크립트로 다중 변환하는 에이전트 팀 하네스.
 

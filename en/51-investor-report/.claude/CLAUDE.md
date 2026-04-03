@@ -1,4 +1,4 @@
-# Investor Report Harness
+# Investor Report Jarbis
 
 Investor report generation: an agent team collaborates to produce financial performance analysis, KPI dashboard, market trends, strategy updates, and risk disclosures.
 

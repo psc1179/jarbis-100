@@ -1,4 +1,4 @@
-# Contract Analyzer Harness
+# Contract Analyzer Jarbis
 
 계약서 분석·작성·검토·위험 평가를 에이전트 팀이 협업하여 수행하는 하네스.
 조항 분석부터 리스크 평가, 비교 검토, 수정 제안까지 계약 관리 전 과정을 체계적으로 처리한다.

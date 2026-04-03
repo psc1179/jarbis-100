@@ -1,6 +1,6 @@
-# Knowledge Base Builder Harness
+# Knowledge Base Builder Jarbis
 
-An agent team harness for building organizational knowledge management systems.
+An agent team jarbis for building organizational knowledge management systems.
 
 ## Structure
 

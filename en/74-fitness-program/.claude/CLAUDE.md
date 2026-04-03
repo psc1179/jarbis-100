@@ -1,6 +1,6 @@
-# Fitness Program Harness
+# Fitness Program Jarbis
 
-A fitness program design agent team harness.
+A fitness program design agent team jarbis.
 
 ## Structure
 

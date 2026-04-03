@@ -1,4 +1,4 @@
-# Regulatory Filing Harness
+# Regulatory Filing Jarbis
 
 인허가·신고서류의 요건조사→구비서류목록→신청서작성→첨부자료준비→제출체크리스트를 에이전트 팀이 협업하여 생성하는 하네스.
 

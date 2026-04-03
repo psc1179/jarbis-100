@@ -1,6 +1,6 @@
-# Mobile App Builder Harness
+# Mobile App Builder Jarbis
 
-A harness where an agent team collaborates to perform UI/UX design, native code generation, API integration, and store deployment preparation for mobile apps.
+A jarbis where an agent team collaborates to perform UI/UX design, native code generation, API integration, and store deployment preparation for mobile apps.
 
 ## Structure
 

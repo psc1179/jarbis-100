@@ -1,4 +1,4 @@
-# Security Audit Harness
+# Security Audit Jarbis
 
 보안 감사의 취약점스캔→코드분석→침투테스트보고→개선권고를 에이전트 팀이 협업하여 수행하는 하네스.
 

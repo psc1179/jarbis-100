@@ -1,4 +1,4 @@
-# Strategy Framework Harness
+# Strategy Framework Jarbis
 
 조직의 전략 프레임워크를 OKR설계→BSC매핑→SWOT분석→비전·미션선언문→전략실행로드맵 순으로 에이전트 팀이 협업하여 생성하는 하네스.
 

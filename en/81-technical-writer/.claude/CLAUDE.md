@@ -1,6 +1,6 @@
-# Technical Writer Harness
+# Technical Writer Jarbis
 
-technical document writing structuredesign→→diagram→review→versionmanagement A harness where an agent team collaborates to produce deliverables.
+technical document writing structuredesign→→diagram→review→versionmanagement A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

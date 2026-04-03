@@ -1,4 +1,4 @@
-# Procurement Docs Harness
+# Procurement Docs Jarbis
 
 구매 문서세트 생성 하네스. 요구사항 정의부터 벤더 비교표, 평가 기준표, 계약 조건 검토, 검수 기준서까지 에이전트 팀이 협업하여 생성한다.
 

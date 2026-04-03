@@ -1,6 +1,6 @@
-# Personal Finance Harness
+# Personal Finance Jarbis
 
-itemsperson financialmanagement incomeexpenseanalysis→budgetdesign→investmentstrategy→tax savingsapproach→retirementdesign A harness where an agent team collaborates to produce deliverables.
+itemsperson financialmanagement incomeexpenseanalysis→budgetdesign→investmentstrategy→tax savingsapproach→retirementdesign A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

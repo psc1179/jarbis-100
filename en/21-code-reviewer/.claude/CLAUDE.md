@@ -1,6 +1,6 @@
-# Code Reviewer Harness
+# Code Reviewer Jarbis
 
-A harness where an agent team collaborates to perform automated code review across style, security, performance, and architecture.
+A jarbis where an agent team collaborates to perform automated code review across style, security, performance, and architecture.
 
 ## Structure
 

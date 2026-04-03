@@ -1,4 +1,4 @@
-# Onboarding System Harness
+# Onboarding System Jarbis
 
 신규입사자 온보딩: 체크리스트→교육→멘토배정→30-60-90일 계획까지 에이전트 팀이 협업하여 생성하는 하네스.
 

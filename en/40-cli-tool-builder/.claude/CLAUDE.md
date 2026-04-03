@@ -1,6 +1,6 @@
-# CLI Tool Builder Harness
+# CLI Tool Builder Jarbis
 
-CLI tool construction: a harness where an agent team collaborates to perform command design → core development → testing → documentation → release.
+CLI tool construction: a jarbis where an agent team collaborates to perform command design → core development → testing → documentation → release.
 
 ## Structure
 

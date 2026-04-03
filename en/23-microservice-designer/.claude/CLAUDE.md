@@ -1,6 +1,6 @@
-# Microservice Designer Harness
+# Microservice Designer Jarbis
 
-An agent team harness for designing, decomposing, communicating, and monitoring microservice architectures. Automates the full pipeline from domain analysis to observability design.
+An agent team jarbis for designing, decomposing, communicating, and monitoring microservice architectures. Automates the full pipeline from domain analysis to observability design.
 
 ## Structure
 

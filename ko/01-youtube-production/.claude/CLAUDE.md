@@ -1,4 +1,4 @@
-# YouTube Production Harness
+# YouTube Production Jarbis
 
 YouTube 영상 콘텐츠의 기획→대본→썸네일→SEO를 에이전트 팀이 협업하여 생성하는 하네스.
 

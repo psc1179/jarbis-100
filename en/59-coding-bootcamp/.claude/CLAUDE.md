@@ -1,6 +1,6 @@
-# Coding Bootcamp Harness
+# Coding Bootcamp Jarbis
 
-A harness where an agent team collaborates to deliver coding education: curriculum design, hands-on exercises, code review, projects, and portfolio building.
+A jarbis where an agent team collaborates to deliver coding education: curriculum design, hands-on exercises, code review, projects, and portfolio building.
 
 ## Structure
 

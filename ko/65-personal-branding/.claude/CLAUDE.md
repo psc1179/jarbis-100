@@ -1,4 +1,4 @@
-# Personal Branding Harness
+# Personal Branding Jarbis
 
 개인 브랜딩 에이전트 팀 하네스.
 

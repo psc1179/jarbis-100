@@ -1,4 +1,4 @@
-# Scenario Planner Harness
+# Scenario Planner Jarbis
 
 불확실한 환경에서 핵심 변수를 정의하고, 시나리오 매트릭스를 구성하여 영향 분석과 대응 전략을 수립하는 에이전트 팀 하네스.
 

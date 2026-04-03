@@ -1,6 +1,6 @@
-# Data Pipeline Harness
+# Data Pipeline Jarbis
 
-An agent team harness that collaborates to design and implement data pipelines covering ingestion, transformation, loading, quality verification, and monitoring.
+An agent team jarbis that collaborates to design and implement data pipelines covering ingestion, transformation, loading, quality verification, and monitoring.
 
 ## Structure
 

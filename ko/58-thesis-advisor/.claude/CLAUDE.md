@@ -1,4 +1,4 @@
-# Thesis Advisor Harness
+# Thesis Advisor Jarbis
 
 논문 작성의 주제선정→문헌조사→방법론→집필→교정 에이전트 팀 하네스.
 

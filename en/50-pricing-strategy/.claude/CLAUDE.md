@@ -1,4 +1,4 @@
-# Pricing Strategy Harness
+# Pricing Strategy Jarbis
 
 Develop a pricing strategy: an agent team collaborates to produce cost analysis, competitive pricing, value-based pricing, and simulations.
 

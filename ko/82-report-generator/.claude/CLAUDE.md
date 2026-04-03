@@ -1,4 +1,4 @@
-# Report Generator Harness
+# Report Generator Jarbis
 
 업무 보고서의 데이터수집→분석→시각화→집필→요약을 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,6 +1,6 @@
-# Translation & Localization Harness
+# Translation & Localization Jarbis
 
-A harness where an agent team collaborates to perform multilingual translation, localization, cultural adaptation, and terminology management.
+A jarbis where an agent team collaborates to perform multilingual translation, localization, cultural adaptation, and terminology management.
 
 ## Structure
 

@@ -1,6 +1,6 @@
-# Course Builder Harness
+# Course Builder Jarbis
 
-A harness where an agent team collaborates to produce online courses from curriculum design through lesson plans, quizzes, and hands-on labs.
+A jarbis where an agent team collaborates to produce online courses from curriculum design through lesson plans, quizzes, and hands-on labs.
 
 ## Structure
 

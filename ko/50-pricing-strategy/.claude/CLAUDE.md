@@ -1,4 +1,4 @@
-# Pricing Strategy Harness
+# Pricing Strategy Jarbis
 
 가격 전략 수립: 원가분석→경쟁가격→가치기반→시뮬레이션을 에이전트 팀이 협업하여 생성하는 하네스.
 

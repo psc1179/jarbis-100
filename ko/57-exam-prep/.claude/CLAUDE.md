@@ -1,4 +1,4 @@
-# Exam Prep Harness
+# Exam Prep Jarbis
 
 시험 준비의 출제경향→약점진단→맞춤학습→모의고사→오답분석 에이전트 팀 하네스.
 

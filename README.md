@@ -1,8 +1,8 @@
-# Harness 100
+# Jarbis 100
 
-Production-grade agent team harness collection for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
+Production-grade agent team jarbis collection for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
-100 ready-to-use harnesses across 10 domains — each with 4-5 specialist agents, an orchestrator skill, and 2-3 agent-extending skills. Available in **Korean** and **English**.
+100 ready-to-use jarbises across 10 domains — each with 4-5 specialist agents, an orchestrator skill, and 2-3 agent-extending skills. Available in **Korean** and **English**.
 
 > **[English (en/)](en/)** | **[Korean (ko/)](ko/)**
 
@@ -10,7 +10,7 @@ Production-grade agent team harness collection for [Claude Code](https://docs.an
 
 | | ko/ | en/ | Total |
 |---|-----|-----|-------|
-| Harnesses | 100 | 100 | 200 |
+| Jarbises | 100 | 100 | 200 |
 | Agent definitions | 489 | 489 | 978 |
 | Skills | 315 | 315 | 630 |
 | Total .md files | 904 | 904 | **1,808** |
@@ -18,7 +18,7 @@ Production-grade agent team harness collection for [Claude Code](https://docs.an
 ## Quick Start
 
 ```bash
-# Copy any harness into your project
+# Copy any jarbis into your project
 cp -r ko/01-youtube-production/.claude/ /path/to/my-project/.claude/
 
 # Or use the English version
@@ -27,7 +27,7 @@ cp -r en/01-youtube-production/.claude/ /path/to/my-project/.claude/
 
 ## Categories
 
-| # | Category | Harnesses | Highlights |
+| # | Category | Jarbises | Highlights |
 |---|----------|-----------|------------|
 | 1 | Content Creation | 01-15 | YouTube, podcast, game narrative, comics, translation |
 | 2 | Software Dev & DevOps | 16-30 | Full-stack, API, CI/CD, security audit, IaC |
@@ -40,10 +40,10 @@ cp -r en/01-youtube-production/.claude/ /path/to/my-project/.claude/
 | 9 | Operations & Process | 89-95 | Hiring, onboarding, audit, procurement |
 | 10 | Specialized Domains | 96-100 | Real estate, e-commerce, ESG, IP portfolio |
 
-## Harness Architecture
+## Jarbis Architecture
 
 ```
-{NN}-{harness-name}/
+{NN}-{jarbis-name}/
 └── .claude/
     ├── CLAUDE.md                    # Project overview
     ├── agents/
@@ -71,7 +71,7 @@ cp -r en/01-youtube-production/.claude/ /path/to/my-project/.claude/
 
 ## Quality Standards
 
-Every harness includes:
+Every jarbis includes:
 
 - **Agent Team Mode** — SendMessage direct communication, cross-validation
 - **Domain Expertise** — Real frameworks (OWASP, Bloom's Taxonomy, Porter's 5 Forces, DCF, etc.)

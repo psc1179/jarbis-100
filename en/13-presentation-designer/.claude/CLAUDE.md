@@ -1,6 +1,6 @@
-# Presentation Designer Harness
+# Presentation Designer Jarbis
 
-A harness where an agent team collaborates to produce presentations: planning, storyboards, slides, and speaker notes.
+A jarbis where an agent team collaborates to produce presentations: planning, storyboards, slides, and speaker notes.
 
 ## Structure
 

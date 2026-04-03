@@ -1,6 +1,6 @@
-# Government Funding Plan Harness
+# Government Funding Plan Jarbis
 
-Government funding proposal: a harness where an agent team collaborates to perform announcement analysis → business plan writing → technical writing → budget planning → submission review.
+Government funding proposal: a jarbis where an agent team collaborates to perform announcement analysis → business plan writing → technical writing → budget planning → submission review.
 
 ## Structure
 

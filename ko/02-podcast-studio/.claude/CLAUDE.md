@@ -1,4 +1,4 @@
-# Podcast Studio Harness
+# Podcast Studio Jarbis
 
 팟캐스트 콘텐츠의 기획→리서치→대본→쇼노트→배포 전략을 에이전트 팀이 협업하여 생성하는 하네스.
 

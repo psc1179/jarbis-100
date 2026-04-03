@@ -1,6 +1,6 @@
-# ML Experiment Harness
+# ML Experiment Jarbis
 
-A harness where an agent team collaborates to perform the full ML experiment lifecycle: data preparation → model design → training → evaluation → deployment.
+A jarbis where an agent team collaborates to perform the full ML experiment lifecycle: data preparation → model design → training → evaluation → deployment.
 
 ## Structure
 

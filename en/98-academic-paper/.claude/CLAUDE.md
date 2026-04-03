@@ -1,6 +1,6 @@
-# Academic Paper Harness
+# Academic Paper Jarbis
 
-An academic paper writing harness. An agent team collaborates to produce research design, experiment management, statistical analysis, paper writing, and submission preparation.
+An academic paper writing jarbis. An agent team collaborates to produce research design, experiment management, statistical analysis, paper writing, and submission preparation.
 
 ## Structure
 

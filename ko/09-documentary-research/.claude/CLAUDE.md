@@ -1,4 +1,4 @@
-# Documentary Research Harness
+# Documentary Research Jarbis
 
 다큐멘터리 리서치·구성안·인터뷰질문·내레이션 대본을 에이전트 팀이 협업하여 생성하는 하네스.
 

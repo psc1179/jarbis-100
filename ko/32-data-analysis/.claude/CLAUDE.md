@@ -1,4 +1,4 @@
-# Data Analysis Harness
+# Data Analysis Jarbis
 
 데이터 분석 프로젝트의 탐색→정제→분석→시각화→보고서를 에이전트 팀이 협업하여 수행하는 하네스.
 

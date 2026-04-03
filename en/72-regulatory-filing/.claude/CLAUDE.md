@@ -1,6 +1,6 @@
-# Regulatory Filing Harness
+# Regulatory Filing Jarbis
 
-A regulatory filing and permit application agent team harness.
+A regulatory filing and permit application agent team jarbis.
 
 ## Structure
 

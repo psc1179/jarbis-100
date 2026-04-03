@@ -1,4 +1,4 @@
-# Sustainability Audit Harness
+# Sustainability Audit Jarbis
 
 ESG/지속가능성 감사의 환경→사회→거버넌스→보고서→개선계획을 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,4 +1,4 @@
-# Feedback Analyzer Harness
+# Feedback Analyzer Jarbis
 
 고객·직원 피드백 분석 하네스. 데이터 수집부터 감성분석, 주제분류, 트렌드 도출, 인사이트 보고서까지 에이전트 팀이 협업하여 생성한다.
 

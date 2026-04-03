@@ -1,6 +1,6 @@
-# Web Scraper Harness
+# Web Scraper Jarbis
 
-Web scraping system construction: a harness in which an agent team collaborates to build target analysis, crawler design, parsing, storage, and monitoring.
+Web scraping system construction: a jarbis in which an agent team collaborates to build target analysis, crawler design, parsing, storage, and monitoring.
 
 ## Structure
 

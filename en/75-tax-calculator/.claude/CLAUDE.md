@@ -1,6 +1,6 @@
-# Tax Calculator Harness
+# Tax Calculator Jarbis
 
-A tax calculation agent team harness.
+A tax calculation agent team jarbis.
 
 ## Structure
 

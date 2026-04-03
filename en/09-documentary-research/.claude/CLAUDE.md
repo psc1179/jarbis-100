@@ -1,6 +1,6 @@
-# Documentary Research Harness
+# Documentary Research Jarbis
 
-A harness where an agent team collaborates to produce documentary research, treatment plans, interview questions, and narration scripts.
+A jarbis where an agent team collaborates to produce documentary research, treatment plans, interview questions, and narration scripts.
 
 ## Structure
 

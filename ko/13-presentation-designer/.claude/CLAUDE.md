@@ -1,4 +1,4 @@
-# Presentation Designer Harness
+# Presentation Designer Jarbis
 
 프레젠테이션의 기획→스토리보드→슬라이드→발표노트를 에이전트 팀이 협업하여 제작하는 하네스.
 

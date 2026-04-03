@@ -1,6 +1,6 @@
-# Meal Planner Harness
+# Meal Planner Jarbis
 
-A meal planning agent team harness.
+A meal planning agent team jarbis.
 
 ## Structure
 

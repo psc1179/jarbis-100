@@ -1,4 +1,4 @@
-# Game Narrative Harness
+# Game Narrative Jarbis
 
 게임 스토리·퀘스트·대사·분기 시나리오를 에이전트 팀이 협업하여 설계하는 하네스.
 

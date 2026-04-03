@@ -1,6 +1,6 @@
-# API Client Generator Harness
+# API Client Generator Jarbis
 
-API client SDK generation: a harness in which an agent team collaborates to perform spec parsing, type generation, client code development, testing, and usage documentation.
+API client SDK generation: a jarbis in which an agent team collaborates to perform spec parsing, type generation, client code development, testing, and usage documentation.
 
 ## Structure
 

@@ -1,4 +1,4 @@
-# CI/CD Pipeline Harness
+# CI/CD Pipeline Jarbis
 
 CI/CD 파이프라인의 설계·구축·모니터링·최적화를 에이전트 팀이 협업하여 수행하는 하네스.
 

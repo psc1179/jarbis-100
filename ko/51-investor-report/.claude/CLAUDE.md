@@ -1,4 +1,4 @@
-# Investor Report Harness
+# Investor Report Jarbis
 
 투자자 보고서 생성: 재무실적분석→KPI대시보드→시장동향→전략업데이트→리스크공시를 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,6 +1,6 @@
-# YouTube Production Harness
+# YouTube Production Jarbis
 
-A harness where an agent team collaborates to produce YouTube video content through the pipeline of strategy, script, thumbnail, and SEO.
+A jarbis where an agent team collaborates to produce YouTube video content through the pipeline of strategy, script, thumbnail, and SEO.
 
 ## Structure
 

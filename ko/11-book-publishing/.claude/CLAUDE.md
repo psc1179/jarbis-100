@@ -1,4 +1,4 @@
-# Book Publishing Harness
+# Book Publishing Jarbis
 
 전자책 출판의 원고편집→표지→목차→메타데이터→배포를 에이전트 팀이 협업하여 생성하는 하네스.
 

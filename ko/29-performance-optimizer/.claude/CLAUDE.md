@@ -1,4 +1,4 @@
-# Performance Optimizer Harness
+# Performance Optimizer Jarbis
 
 성능 최적화의 프로파일링→병목분석→최적화→벤치마크를 에이전트 팀이 협업하여 수행하는 하네스.
 

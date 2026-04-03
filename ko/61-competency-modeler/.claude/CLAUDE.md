@@ -1,4 +1,4 @@
-# Competency Modeler Harness
+# Competency Modeler Jarbis
 
 역량 모델링의 직무분석→역량사전작성→평가루브릭설계→개발계획수립→역량매트릭스를 에이전트 팀이 협업하여 수행하는 하네스.
 

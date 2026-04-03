@@ -1,4 +1,4 @@
-# Social Media Manager Harness
+# Social Media Manager Jarbis
 
 SNS 콘텐츠 달력·포스트작성·해시태그·성과분석을 에이전트 팀이 협업하여 생성하는 하네스.
 

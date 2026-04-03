@@ -1,4 +1,4 @@
-# Financial Modeler Harness
+# Financial Modeler Jarbis
 
 수익 모델, 비용 구조, 시나리오 분석, 밸류에이션까지 재무 모델링 전 과정을 에이전트 팀이 협업하여 생성하는 하네스.
 

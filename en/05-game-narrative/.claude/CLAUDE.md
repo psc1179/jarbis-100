@@ -1,6 +1,6 @@
-# Game Narrative Harness
+# Game Narrative Jarbis
 
-A harness where an agent team collaborates to design game story, quests, dialogue, and branching scenarios.
+A jarbis where an agent team collaborates to design game story, quests, dialogue, and branching scenarios.
 
 ## Structure
 

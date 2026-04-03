@@ -1,4 +1,4 @@
-# Open Source Launcher Harness
+# Open Source Launcher Jarbis
 
 오픈소스 프로젝트 런칭의 코드정리→문서→라이선스→커뮤니티 구축을 에이전트 팀이 협업하여 수행하는 하네스.
 

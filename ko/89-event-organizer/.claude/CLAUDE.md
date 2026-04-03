@@ -1,4 +1,4 @@
-# Event Organizer Harness
+# Event Organizer Jarbis
 
 이벤트 기획·운영: 컨셉→장소→프로그램→홍보→실행→사후평가까지 에이전트 팀이 협업하여 생성하는 하네스.
 

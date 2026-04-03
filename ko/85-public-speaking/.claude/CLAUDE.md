@@ -1,4 +1,4 @@
-# Public Speaking Harness
+# Public Speaking Jarbis
 
 퍼블릭스피킹 종합의 연설문→발표대본→토론준비서→Q&A예상답변→리허설가이드를 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,4 +1,4 @@
-# IP Portfolio Harness
+# IP Portfolio Jarbis
 
 지식재산 포트폴리오 관리의 IP현황분석→특허·상표·저작권매핑→갱신일정→라이선스전략→보호전략보고서를 에이전트 팀이 협업하여 생성하는 하네스.
 

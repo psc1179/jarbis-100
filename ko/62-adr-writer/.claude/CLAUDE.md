@@ -1,4 +1,4 @@
-# ADR Writer Harness
+# ADR Writer Jarbis
 
 아키텍처 결정 기록(ADR) 작성 에이전트 팀 하네스.
 

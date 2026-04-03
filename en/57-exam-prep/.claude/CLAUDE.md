@@ -1,6 +1,6 @@
-# Exam Prep Harness
+# Exam Prep Jarbis
 
-An agent team harness for exam preparation: exam trend analysis, weakness diagnosis, customized study plans, mock exams, and error analysis.
+An agent team jarbis for exam preparation: exam trend analysis, weakness diagnosis, customized study plans, mock exams, and error analysis.
 
 ## Structure
 

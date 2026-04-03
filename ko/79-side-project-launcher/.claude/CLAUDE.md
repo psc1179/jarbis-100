@@ -1,4 +1,4 @@
-# Side Project Launcher Harness
+# Side Project Launcher Jarbis
 
 사이드프로젝트 기획의 아이디어검증→기술스택선정→MVP스펙→개발로드맵→런칭체크리스트를 에이전트 팀이 협업하여 생성하는 하네스.
 

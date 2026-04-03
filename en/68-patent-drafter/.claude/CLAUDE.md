@@ -1,6 +1,6 @@
-# Patent Drafter Harness
+# Patent Drafter Jarbis
 
-A patent application drafting agent team harness.
+A patent application drafting agent team jarbis.
 
 ## Structure
 

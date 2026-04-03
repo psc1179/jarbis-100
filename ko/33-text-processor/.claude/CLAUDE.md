@@ -1,4 +1,4 @@
-# Text Processor Harness
+# Text Processor Jarbis
 
 텍스트 처리 파이프라인: 대량 텍스트→요약·분류·개체추출·감성분석→구조화 데이터→보고서를 에이전트 팀이 협업하여 수행하는 하네스.
 

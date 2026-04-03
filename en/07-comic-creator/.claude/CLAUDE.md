@@ -1,6 +1,6 @@
-# Comic Creator Harness
+# Comic Creator Jarbis
 
-A harness where an agent team collaborates to produce comics — from storyboarding through dialogue, image generation, and editing — for formats ranging from 4-panel strips to long-form series.
+A jarbis where an agent team collaborates to produce comics — from storyboarding through dialogue, image generation, and editing — for formats ranging from 4-panel strips to long-form series.
 
 ## Structure
 

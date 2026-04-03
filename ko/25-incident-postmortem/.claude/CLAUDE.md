@@ -1,4 +1,4 @@
-# Incident Postmortem Harness
+# Incident Postmortem Jarbis
 
 장애 사후분석 보고서를 에이전트 팀이 협업하여 생성하는 하네스. 타임라인 재구성→근본원인 분석→영향범위 산정→재발방지 대책→보고서 생성 파이프라인을 자동화한다.
 

@@ -1,6 +1,6 @@
-# Chatbot Builder Harness
+# Chatbot Builder Jarbis
 
-Chatbot construction: a harness where an agent team collaborates to perform intent analysis, conversation design, NLU development, integration, and testing.
+Chatbot construction: a jarbis where an agent team collaborates to perform intent analysis, conversation design, NLU development, integration, and testing.
 
 ## Structure
 

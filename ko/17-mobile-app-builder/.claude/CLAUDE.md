@@ -1,4 +1,4 @@
-# Mobile App Builder Harness
+# Mobile App Builder Jarbis
 
 모바일 앱의 UI/UX 설계→네이티브 코드 생성→API 연동→스토어 배포 준비를 에이전트 팀이 협업하여 수행하는 하네스.
 

@@ -1,6 +1,6 @@
-# Wedding Planner Harness
+# Wedding Planner Jarbis
 
-wedding preparation comprehensive timelinedesign→budgetmanagementtable→vendorcomparisontable→checklist→invitationdocument A harness where an agent team collaborates to produce deliverables.
+wedding preparation comprehensive timelinedesign→budgetmanagementtable→vendorcomparisontable→checklist→invitationdocument A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

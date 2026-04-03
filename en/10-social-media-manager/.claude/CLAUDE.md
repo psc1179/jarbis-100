@@ -1,6 +1,6 @@
-# Social Media Manager Harness
+# Social Media Manager Jarbis
 
-A harness where an agent team collaborates to produce SNS content calendars, post copy, hashtags, and performance analysis.
+A jarbis where an agent team collaborates to produce SNS content calendars, post copy, hashtags, and performance analysis.
 
 ## Structure
 

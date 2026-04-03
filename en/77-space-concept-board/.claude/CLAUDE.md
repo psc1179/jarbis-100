@@ -1,6 +1,6 @@
-# Space Concept Board Harness
+# Space Concept Board Jarbis
 
-A harness where an agent team collaborates to generate style analysis, moodboard, color palette, furniture/accessory list, budget sheet, and shopping guide for an interior space concept board.
+A jarbis where an agent team collaborates to generate style analysis, moodboard, color palette, furniture/accessory list, budget sheet, and shopping guide for an interior space concept board.
 
 ## Structure
 

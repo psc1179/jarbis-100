@@ -1,6 +1,6 @@
-# Hiring Pipeline Harness
+# Hiring Pipeline Jarbis
 
-hiring process: JDwriting→sourcing→screening→interview→assessment→offerto A harness where an agent team collaborates to produce deliverables.
+hiring process: JDwriting→sourcing→screening→interview→assessment→offerto A jarbis where an agent team collaborates to produce deliverables.
 
 ## structure
 

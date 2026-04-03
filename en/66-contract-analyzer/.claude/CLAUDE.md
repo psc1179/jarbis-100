@@ -1,6 +1,6 @@
-# Contract Analyzer Harness
+# Contract Analyzer Jarbis
 
-A contract analysis agent team harness.
+A contract analysis agent team jarbis.
 
 ## Structure
 

@@ -1,4 +1,4 @@
-# Wedding Planner Harness
+# Wedding Planner Jarbis
 
 결혼 준비 종합의 타임라인설계→예산관리표→업체비교표→체크리스트→청첩장문구를 에이전트 팀이 협업하여 생성하는 하네스.
 

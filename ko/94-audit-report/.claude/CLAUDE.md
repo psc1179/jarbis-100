@@ -1,4 +1,4 @@
-# Audit Report Harness
+# Audit Report Jarbis
 
 내부감사 보고서 생성 하네스. 감사 범위 설정부터 체크리스트 작성, 발견사항 정리, 개선 권고, 추적 대장까지 에이전트 팀이 협업하여 생성한다.
 

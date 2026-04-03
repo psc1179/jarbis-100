@@ -1,4 +1,4 @@
-# Knowledge Base Builder Harness
+# Knowledge Base Builder Jarbis
 
 조직 지식관리 체계 구축 에이전트 팀 하네스.
 

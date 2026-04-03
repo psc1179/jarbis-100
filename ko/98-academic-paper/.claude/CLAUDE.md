@@ -1,4 +1,4 @@
-# Academic Paper Harness
+# Academic Paper Jarbis
 
 학술 논문 작성의 연구설계→실험→분석→집필→투고준비를 에이전트 팀이 협업하여 생성하는 하네스.
 

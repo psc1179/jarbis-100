@@ -1,4 +1,4 @@
-# Hiring Pipeline Harness
+# Hiring Pipeline Jarbis
 
 채용 프로세스: JD작성→소싱→스크리닝→면접→평가→오퍼까지 에이전트 팀이 협업하여 생성하는 하네스.
 

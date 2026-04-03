@@ -1,6 +1,6 @@
-# Advertising Campaign Harness
+# Advertising Campaign Jarbis
 
-A harness where an agent team collaborates to design advertising campaigns: target analysis, copy, creative, and media plans.
+A jarbis where an agent team collaborates to design advertising campaigns: target analysis, copy, creative, and media plans.
 
 ## Structure
 

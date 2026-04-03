@@ -1,6 +1,6 @@
-# BI Dashboard Harness
+# BI Dashboard Jarbis
 
-BI dashboard construction: a harness where an agent team collaborates to perform KPI design → data engineering → dashboard building → report automation → review.
+BI dashboard construction: a jarbis where an agent team collaborates to perform KPI design → data engineering → dashboard building → report automation → review.
 
 ## Structure
 

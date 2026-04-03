@@ -1,4 +1,4 @@
-# Travel Planner Harness
+# Travel Planner Jarbis
 
 여행 계획의 목적지분석→일정→숙소→예산→현지정보를 에이전트 팀이 협업하여 생성하는 하네스.
 

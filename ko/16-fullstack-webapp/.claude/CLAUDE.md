@@ -1,4 +1,4 @@
-# Fullstack Web App Harness
+# Fullstack Web App Jarbis
 
 풀스택 웹앱의 요구사항→설계→프론트엔드→백엔드→테스트→배포를 에이전트 팀이 협업하여 개발하는 하네스.
 

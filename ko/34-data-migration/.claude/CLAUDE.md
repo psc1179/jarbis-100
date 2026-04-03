@@ -1,4 +1,4 @@
-# Data Migration Harness
+# Data Migration Jarbis
 
 데이터 마이그레이션: 소스분석→스키마매핑→변환스크립트생성→검증쿼리→롤백계획을 에이전트 팀이 협업하여 수행하는 하네스.
 

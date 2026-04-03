@@ -1,4 +1,4 @@
-# Infra as Code Harness
+# Infra as Code Jarbis
 
 Infrastructure as Code(IaC) 설계 및 구현을 에이전트 팀이 협업하여 수행하는 하네스. Terraform/Pulumi 기반 환경 구성, 보안, 비용 최적화 파이프라인을 자동화한다.
 

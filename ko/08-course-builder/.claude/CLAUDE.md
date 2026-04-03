@@ -1,4 +1,4 @@
-# Course Builder Harness
+# Course Builder Jarbis
 
 온라인 강의 설계의 커리큘럼→교안→퀴즈→실습과제를 에이전트 팀이 협업하여 생성하는 하네스.
 

@@ -1,4 +1,4 @@
-# Sales Enablement Harness
+# Sales Enablement Jarbis
 
 A sales enablement pipeline where an agent team collaborates to produce: Customer Analysis, Proposal, Presentation, and Follow-up Plan.
 

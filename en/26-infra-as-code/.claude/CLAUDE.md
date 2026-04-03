@@ -1,6 +1,6 @@
-# Infra as Code Harness
+# Infra as Code Jarbis
 
-An agent team harness for Infrastructure as Code (IaC) design and implementation. Automates Terraform/Pulumi-based environment configuration, security, and cost optimization pipelines.
+An agent team jarbis for Infrastructure as Code (IaC) design and implementation. Automates Terraform/Pulumi-based environment configuration, security, and cost optimization pipelines.
 
 ## Structure
 

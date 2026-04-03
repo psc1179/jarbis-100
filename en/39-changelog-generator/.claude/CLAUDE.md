@@ -1,6 +1,6 @@
-# Changelog Generator Harness
+# Changelog Generator Jarbis
 
-Changelog generation: a harness where an agent team collaborates to perform commit analysis → change classification → release note writing → migration guide → announcement.
+Changelog generation: a jarbis where an agent team collaborates to perform commit analysis → change classification → release note writing → migration guide → announcement.
 
 ## Structure
 

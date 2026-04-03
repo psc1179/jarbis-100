@@ -1,6 +1,6 @@
-# Thesis Advisor Harness
+# Thesis Advisor Jarbis
 
-An agent team harness for thesis writing: topic selection, literature review, methodology, writing, and proofreading.
+An agent team jarbis for thesis writing: topic selection, literature review, methodology, writing, and proofreading.
 
 ## Structure
 

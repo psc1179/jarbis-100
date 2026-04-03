@@ -1,6 +1,6 @@
-# Test Automation Harness
+# Test Automation Jarbis
 
-An agent team harness that collaborates on test automation strategy development, test writing, CI integration, and coverage analysis.
+An agent team jarbis that collaborates on test automation strategy development, test writing, CI integration, and coverage analysis.
 
 ## Structure
 

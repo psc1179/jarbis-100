@@ -1,6 +1,6 @@
-# CI/CD Pipeline Harness
+# CI/CD Pipeline Jarbis
 
-A harness where an agent team collaborates to design, build, monitor, and optimize CI/CD pipelines.
+A jarbis where an agent team collaborates to design, build, monitor, and optimize CI/CD pipelines.
 
 ## Structure
 
